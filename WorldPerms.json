@@ -15,7 +15,7 @@
 		"Supporter-Tier1": [
 			"Tester",
 			"Kartoffelbrot",
-			"Lorem", "ipsum" ,"dolor" ,"sit amet","elitr ,sed diam"
+			"Lorem", "ipsum" ,"dolor" ,"sit amet","elitr<c> ,sed diam"
 		],
 		"Supporter-Tier2": [
 			"consetetur sadipscing"
