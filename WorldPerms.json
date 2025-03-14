@@ -12,9 +12,17 @@
 		"Visuals": [],
 		"Dancer": [],
 		"Media": [],
-		"Supporter-Tier1": [],
-		"Supporter-Tier2": [],
-		"Supporter-Tier3": [],
+		"Supporter-Tier1": [
+			"Tester",
+			"Kartoffelbrot",
+		],
+		"Supporter-Tier2": [
+			"MarioParty"
+		],
+		"Supporter-Tier3": [
+			"LaufWeg",
+			"MArioana"
+		],
 		"Friend": []
 	}
 }
